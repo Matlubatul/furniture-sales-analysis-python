@@ -34,11 +34,11 @@ furniture-sales-analysis-python/
 
 ### Total Sales by City
 
-![Bar Plot](visualizations/barplot-total-sales-by-city.png)
+![Bar Plot](visualizations/barplot-total-sales-by-city.jpeg)
 
 ### Price vs Total Sales & Discount Distribution
 
-![Scatter and Box Plot](visualizations/scatter-and-boxplot-analysis.png)
+![Scatter and Box Plot](visualizations/scatter-and-boxplot-analysis.jpeg)
 
 ## 📈 Business Insights
 
